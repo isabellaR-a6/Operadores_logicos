@@ -19,19 +19,12 @@ Reforçar o entendimento de expressões booleanas
 
 🧠 Operadores Abordados
 --
-Operador	Nome	O que faz
-&&	E lógico	Retorna true somente se todas as condições forem verdadeiras
-`		`
-!	NÃO lógico	Inverte o valor lógico (true vira false e vice-versa)
-📂 Estrutura do Projeto
-📁 operadores-logicos-js/
-│
-├── &&.html              → Operador &&
-├── pelomenosuma.html    → Operador ||
-├── operadorlogico.html  → Operador !
-│
-└── script.js            → Lógica de verificação
-Cada página possui sua própria lógica aplicada ao operador correspondente.
+| Operador | Nome         | O que faz |
+|----------|-------------|------------|
+| &&       | E lógico     | Retorna true somente se todas as condições forem verdadeiras |
+| \|\|     | OU lógico    | Retorna true se pelo menos uma condição for verdadeira |
+| !        | NÃO lógico   | Inverte o valor lógico (true vira false e vice-versa) |
+
 
 🖥️ Operador && (E Lógico)
 --
